@@ -1,0 +1,6 @@
+@candles.map do |candle|{
+  scent: candle.scent,
+  color: candle.color,
+  price: candle.price
+}
+end
