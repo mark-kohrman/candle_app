@@ -1,0 +1,5 @@
+{
+  scent: @candle.scent,
+  color: @candle.color,
+  price: @candle.price
+}
